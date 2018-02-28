@@ -48,7 +48,7 @@ public class ValidacaoDocumento {
 		}
 	}
 
-	private static void validarDocumentos(Validator<String> validador, String documento) {
+	public static void validarDocumentos(Validator<String> validador, String documento) {
 		validador.assertValid(documento);
 	}
 }
