@@ -1,4 +1,4 @@
-package brasileirice;
+package br.com.alura.documento;
 
 import br.com.caelum.stella.validation.CNPJValidator;
 import br.com.caelum.stella.validation.CPFValidator;
